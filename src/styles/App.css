@@ -1,0 +1,49 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #051650;
+}
+
+#root {
+  height: 100%;
+}
+
+.container {
+  width: 100vh;
+  min-height: 100vh; /* Memastikan tinggi container selalu setara dengan tinggi layar */
+  background-color: #051650;
+  color: aliceblue;
+  display: flex; /* Ubah dari grid ke flex supaya lebih fleksibel */
+  flex-direction: column;
+  align-items: center;
+}
+
+h2 {
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: aliceblue;
+  text-align: center;
+}
+
+
+.skill-card {
+  display: flex;
+  flex-direction: column;  /* Menyusun konten secara vertikal */
+  justify-content: center; /* Menempatkan konten secara vertikal di tengah */
+  align-items: center;     /* Menempatkan konten secara horizontal di tengah */
+  background-color: #ffffff !important; /* Warna kuning */
+  color: black !important; /* Warna teks */
+  border-radius: 10px;
+  padding: 15px;
+  height: 200px; /* Atur tinggi card jika diperlukan */
+}
+
+.bg-custom {
+  background-color: #ff5733 !important; /* Warna oranye */
+}
+
+
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
