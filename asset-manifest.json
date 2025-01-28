@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.695a9193.css",
+    "main.js": "/portfolio/static/js/main.9c1e2f6e.js",
+    "static/js/488.4e1284fd.chunk.js": "/portfolio/static/js/488.4e1284fd.chunk.js",
+    "static/media/logosementara.png": "/portfolio/static/media/logosementara.caf883f3fc8a794365fb.png",
+    "index.html": "/portfolio/index.html",
+    "main.695a9193.css.map": "/portfolio/static/css/main.695a9193.css.map",
+    "main.9c1e2f6e.js.map": "/portfolio/static/js/main.9c1e2f6e.js.map",
+    "488.4e1284fd.chunk.js.map": "/portfolio/static/js/488.4e1284fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.695a9193.css",
+    "static/js/main.9c1e2f6e.js"
+  ]
+}
